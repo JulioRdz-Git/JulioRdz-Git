@@ -103,8 +103,7 @@ Discovered cohorts with sustained **15% monthly growth**.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/julio-cesar-rodriguez-tapia-6186951b5/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="mailto:julio_rdz117@outlook.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981435-22a2ac58-1f16-4e19-90d5-78a4d3e8cfb2.png" alt="email" height="50" width="50" /></a>
-<a href="https://github.com/JulioRdz-Git/PortafolioProyectos" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="portfolio" height="50" width="50" /></a>
+<a href="mailto:julio_rdz117@outlook.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732223.png" alt="email" height="50" width="50" /></a>
 </p>
 
 ---
