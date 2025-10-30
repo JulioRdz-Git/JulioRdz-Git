@@ -49,8 +49,8 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,sqlserver,mysql,pandas,powerbi,excel,git,github,uipath,html,css,js,csharp,dotnet,visualstudio,vscode&perline=8" />
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,mysql,linkedin,eclipse,windows,java,sqlite,git,github,vscode,visualstudio,html,css,js,dotnet,azure&perline=8" alt="Julio Rodríguez Tech Stack"/>
   </a>
 </p>
 
